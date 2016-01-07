@@ -1,0 +1,2 @@
+#!/bin/bash
+CLASSPATH=$HOME/workspace/wyvern/tools/lib/ant.jar:$HOME/workspace/wyvern/tools/lib/junit-4.11.jar:$HOME/workspace/wyvern/tools/lib/asm-debug-all-5.0.1.jar:$HOME/workspace/wyvern/tools/lib/CopperCompiler.jar:$HOME/workspace/wyvern/tools/lib/CopperRuntime.jar:$HOME/workspace/wyvern/tools/lib/hamcrest-core-1.3.jar:$HOME/workspace/wyvern/tools/lib/javatuples-1.2.jar:$HOME/workspace/wyvern/tools/build:.
